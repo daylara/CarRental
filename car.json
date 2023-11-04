@@ -1,0 +1,121 @@
+[
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb927" },
+    "name": "Audi A4",
+    "image": "audi-a4.jpg",
+    "capacity": 5,
+    "fuelType": "Petrol",
+    "bookedTimeSlots": [
+      {
+        "from": 1633698000,
+        "to": "2021-10-08 12:00:00"
+      },
+      {
+        "from": 1633701600,
+        "to": "2021-10-08 13:00:00"
+      }
+    ],
+    "rentPerHour": 50
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb928" },
+    "name": "Toyota Camry",
+    "image": "toyota-camry.jpg",
+    "capacity": 4,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [],
+    "rentPerHour": 45
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb929" },
+    "name": "Honda Civic",
+    "image": "honda-civic.jpg",
+    "capacity": 5,
+    "fuelType": "Petrol",
+    "bookedTimeSlots": [],
+    "rentPerHour": 40
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb930" },
+    "name": "Ford Fusion",
+    "image": "ford-fusion.jpg",
+    "capacity": 5,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [
+      {
+        "from": 1633701600,
+        "to": "2021-10-08 14:00:00"
+      }
+    ],
+    "rentPerHour": 42
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb931" },
+    "name": "Nissan Altima",
+    "image": "nissan-altima.jpg",
+    "capacity": 5,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [],
+    "rentPerHour": 38
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb932" },
+    "name": "BMW 3 Series",
+    "image": "bmw-3-series.jpg",
+    "capacity": 4,
+    "fuelType": "Petrol",
+    "bookedTimeSlots": [
+      {
+        "from": 1633698000,
+        "to": "2021-10-08 17:00:00"
+      }
+    ],
+    "rentPerHour": 55
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb933" },
+    "name": "Mercedes-Benz C-Class",
+    "image": "mercedes-c-class.jpg",
+    "capacity": 4,
+    "fuelType": "Petrol",
+    "bookedTimeSlots": [],
+    "rentPerHour": 60
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb934" },
+    "name": "Volkswagen Passat",
+    "image": "vw-passat.jpg",
+    "capacity": 5,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [
+      {
+        "from": 1633701600,
+        "to": "2021-10-08 16:00:00"
+      }
+    ],
+    "rentPerHour": 48
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb935" },
+    "name": "Hyundai Sonata",
+    "image": "hyundai-sonata.jpg",
+    "capacity": 5,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [],
+    "rentPerHour": 43
+  },
+  {
+    "_id": { "$oid": "65231dfc5f11cbd90f2fb936" },
+    "name": "Kia Optima",
+    "image": "kia-optima.jpg",
+    "capacity": 5,
+    "fuelType": "Gasoline",
+    "bookedTimeSlots": [
+      {
+        "from": 1633701600,
+        "to": "2021-10-08 18:00:00"
+      }
+    ],
+    "rentPerHour": 41
+  }
+]
