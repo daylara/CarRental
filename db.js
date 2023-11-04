@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 function connectDB(){
-  mongoose.connect('mongodb+srv://dilarakaracan60:dilaraa60@cluster0.qfaxlvv.mongodb.net/CarRental?retryWrites=true&w=majority');
+  //mongoose.connect('');add your url
   
   const connection = mongoose.connection;
   connection.on('connected', () => {
